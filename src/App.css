@@ -8,10 +8,14 @@
 }
 
 .home,
-.signup {
+.signup,
+.team,
+.reports,
+.messages,
+.support {
   display: flex;
-  height: 90vh;
+  height: 20vh;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
+  font-size: 2rem;
 }

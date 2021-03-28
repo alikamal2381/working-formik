@@ -11,15 +11,9 @@ export const SidebarData = [
     cName: "nav-text",
   },
   {
-    title: "Reports",
-    path: "/reports",
-    icon: <IoIcons.IoIosPaper />,
-    cName: "nav-text",
-  },
-  {
-    title: "Products",
-    path: "/products",
-    icon: <FaIcons.FaCartPlus />,
+    title: "Signup",
+    path: "/signup",
+    icon: <FaIcons.FaSign />,
     cName: "nav-text",
   },
   {
@@ -28,6 +22,13 @@ export const SidebarData = [
     icon: <IoIcons.IoMdPeople />,
     cName: "nav-text",
   },
+  {
+    title: "Reports",
+    path: "/reports",
+    icon: <IoIcons.IoIosPaper />,
+    cName: "nav-text",
+  },
+
   {
     title: "Messages",
     path: "/messages",

@@ -3,7 +3,7 @@ import React from "react";
 function Signup() {
   return (
     <div className="signup">
-      <h1>Signup</h1>
+      <h3 style={{ color: "blue" }}>Signup: </h3>
     </div>
   );
 }
